@@ -7,7 +7,6 @@ Trilha de lógica de programação pela DIO.
 #### Conceitos utilizados:
 - Variáveis
 - Operadores
-- Laços de repetição
 - Estruturas de decisões
 
 #### Objetivo
