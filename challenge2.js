@@ -42,7 +42,7 @@ const players = [
   { wins: 99, losses: 48 },
   { wins: 114, losses: 33 },
   { wins: 119, losses: 28 },
-  { wins: 124, losses: 23 } // Negative balance
+  { wins: 124, losses: 23 }
 ];
 
 // Iterates over the list of players and displays their rankings
